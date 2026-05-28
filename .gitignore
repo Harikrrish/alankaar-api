@@ -1,0 +1,75 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.bak
+*.log
+*.vsconfig
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[xX]64/
+[xX]86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# dotnet
+*.db
+*.pdb
+*.dll
+*.exe
+*.app
+*.log
+*.vsix
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Core
+appsettings*.json
+appsettings*.json.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Rider and ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used by the Windows Shell
+$RECYCLE.BIN/
+
+# End of line normalization
+*.gitattributes
